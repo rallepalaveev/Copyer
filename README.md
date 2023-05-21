@@ -2,7 +2,6 @@
 
 This program will copy a 140kB file which is a .DSK image
 to a physical 5.25 floppy disk on an Apple2 computer.
-No warranty taken, use at your own risk.
 
 Instructions:
 
@@ -18,7 +17,7 @@ Instructions:
 
 Copyright (c) 2023 Ralle Palaveev All rights reserved.
 
-Redistribution and use in source, binary, and manufactued forms, with or without modification, are permitted provided that the following conditions are met:
+No warranty taken, use at your own risk. Redistribution and use in source, binary, and manufactued forms, with or without modification, are permitted provided that the following conditions are met:
 
 Redistributions of source code and design files must retain the above copyright notice, this list of conditions and the following disclaimer.
 Redistributions in binary or manufactured form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
