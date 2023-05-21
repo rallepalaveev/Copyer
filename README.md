@@ -1,5 +1,20 @@
+.DSK to Floppy Disk Copyer by Ralle Palaveev, (c) 2023
 
+This program will copy a 140kB file which is a .DSK image
+to a physical 5.25 floppy disk on an Apple2 computer.
+No warranty taken, use at your own risk.
 
+Instructions:
+
+1. Copy the file Copyer.hdv into a folder on your computer
+2. Copy the .DSK file into the same folder
+3. Rename the .DSK file to DSK.FILE#062000 (please remove the extension too)
+4. Open Copyer.hdv with CiderPress
+5. Replace the existing DSK.FILE with the new one that was created in step 3
+6. Close Copyer.hdv and mount it onto the Apple2 with a mass storage card (like booti)
+7. Insert a blank disk in the FDD on Slot 6, drive 1
+8. Start the program STARTUP and follow the instructions
+9. Upon successful completion DSK.FILE will be copied on the floppy disk
 
 Copyright (c) 2023 Ralle Palaveev All rights reserved.
 
