@@ -5,9 +5,9 @@ to a physical 5.25 floppy disk on an Apple2 computer.
 
 Instructions:
 
-1. Copy the file Copyer.hdv into a folder on your computer
+1. Download the file Copyer.hdv into a folder on your computer
 2. Copy the .DSK file into the same folder
-3. Rename the .DSK file to DSK.FILE#062000 (please remove the extension too)
+3. Rename the .DSK file to DSK.FILE#062000 (confirm if asked to change extension)
 4. Open Copyer.hdv with CiderPress
 5. Replace the existing DSK.FILE with the new one that was created in step 3
 6. Close Copyer.hdv and mount it onto the Apple2 with a mass storage card (like booti)
