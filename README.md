@@ -10,7 +10,7 @@ Instructions:
 3. Rename the .DSK file to DSK.FILE#062000 (confirm if asked to change extension)
 4. Open Copyer.hdv with CiderPress
 5. Replace the existing DSK.FILE with the new one that was created in step 3
-6. Close Copyer.hdv and mount it onto the Apple2 with a mass storage card (like booti)
+6. Close Copyer.hdv and mount it onto the Apple2 with a mass storage card (like A2Pico)
 7. Insert a blank disk in the FDD on Slot 6, Drive 1
 8. Start the program STARTUP and follow the instructions
 9. Upon successful completion DSK.FILE will be copied on the floppy disk
